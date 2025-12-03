@@ -1,7 +1,7 @@
 AI Journal
 Kabir Jalloh
 kjalloh@umd.edu
-INST326 
+INST326 0201
 
 Week 1:
 This week, I used some AI while working on the exercises. I asked ChatGPT to explain basic Python concepts such as f-strings, boolean expressions, string methods like .strip() and .find(), and how to print formatted results. I also used AI to help me understand how to run my Jupyter notebook in VS Code.
