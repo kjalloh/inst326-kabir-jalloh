@@ -4,3 +4,15 @@ kjalloh@umd.edu
 INST326 
 
 Week 1:
+This week, I used some AI while working on the exercises. I asked ChatGPT to explain basic Python concepts such as f-strings, boolean expressions, string methods like .strip() and .find(), and how to print formatted results. I also used AI to help me understand how to run my Jupyter notebook in VS Code.
+Week 1 Chat Link: https://chatgpt.com/share/692fccea-363c-8006-a708-a004733024d7
+
+Week 2:
+This week, I used AI while working on the exercises. I asked ChatGPT to teach me about conditionals (if/elif/else), loops, list operations such as append, remove, and insert, and how to fix common runtime errors like NameError and indentation errors. ChatGPT walked me through debugging when authors and loan_counts were not defined and helped me understand how notebook kernels reset memory.
+Week 2 Chat Link: https://chatgpt.com/share/692fccea-363c-8006-a708-a004733024d7
+
+Week 3: 
+This week, I used AI to help me understand how to write and test Python functions. I asked ChatGPT to explain how return works, how to pass arguments, how to update lists inside functions, and why you use helper functions like normalize_title to avoid repeating code. This was very useful for completing the function-based library management exercises.
+Week 3 Chat Link: https://chatgpt.com/share/692fd273-de8c-8006-b990-c72c00f9a6b2
+
+Week 4:
