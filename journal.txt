@@ -16,3 +16,5 @@ This week, I used AI to help me understand how to write and test Python function
 Week 3 Chat Link: https://chatgpt.com/share/692fd273-de8c-8006-b990-c72c00f9a6b2
 
 Week 4:
+This week, AI played a bigger role in helping me complete the assignment on classes and objects. I asked ChatGPT to explain how __init__ works, how to store attributes on self, and how to design simple instance methods that update those attributes (for example, the Shelf, BookCopy, and CopyTracker classes). I also used it to understand why some of my methods were failing the assert tests and how to fix my logic without changing the tests.
+Week 4 Chat Link: https://chatgpt.com/share/692fe4e6-173c-8006-81e3-8076a336224a
