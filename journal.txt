@@ -21,4 +21,8 @@ Week 4 Chat Link: https://chatgpt.com/share/692fe4e6-173c-8006-81e3-8076a336224a
 
 Week 5:
 This week, I used AI to help me understand encapsulation and data hiding in Python. I asked ChatGPT to explain how private attributes (__x) and protected ones (_x) work, and how to use @property and setter methods to validate data for classes like Book, Member, Account, and Settings.
-Week 5 Chat Link:https://chatgpt.com/share/6930da90-51f8-8006-8b9d-faf20d2583c7
+Week 5 Chat Link:h ttps://chatgpt.com/share/6930da90-51f8-8006-8b9d-faf20d2583c7
+
+Week 6:
+This week I used AI to help me understand class methods and static methods in Python. I asked ChatGPT to explain when to use instance methods vs class methods, and how to let a class generate things like IDs or preset policies. I also used it to check my logic for date calculations and renewals in the Loan exercises.
+Week 5 Chat Link: https://chatgpt.com/share/6930e2bb-9d90-8006-9885-fe10eb149271
