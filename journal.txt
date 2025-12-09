@@ -30,3 +30,7 @@ Week 6 Chat Link: https://chatgpt.com/share/6930e2bb-9d90-8006-9885-fe10eb149271
 Week 7:
 This week I used AI to help me understand exception handling in Python and basic unit testing. I asked ChatGPT to walk me through raising custom errors, catching different exception types, and when to use try/except/else/finally. I also used it to build simple unittest cases and understand how to assert that errors should be raised.
 Week 7 Chat Link: https://chatgpt.com/share/69325c60-1e6c-8006-a5e1-b1ca1f85fbe8
+
+Week 8:
+This week I used AI to help me understand inheritance and polymorphism in Python. I asked ChatGPT to show me how to create subclasses like PrintedBook, EBook, and AudioBook that override methods from Book, and how to use super() correctly inside describe() methods. I also used it to see how polymorphic methods like late_fee() and checkout_message() can replace big if/elif chains and still handle different behaviors for each subclass.
+Week 8 Chat Link:https://chatgpt.com/share/693767f7-32b0-8006-acc7-b1a24bdd2c20
