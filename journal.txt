@@ -34,3 +34,7 @@ Week 7 Chat Link: https://chatgpt.com/share/69325c60-1e6c-8006-a5e1-b1ca1f85fbe8
 Week 8:
 This week I used AI to help me understand inheritance and polymorphism in Python. I asked ChatGPT to show me how to create subclasses like PrintedBook, EBook, and AudioBook that override methods from Book, and how to use super() correctly inside describe() methods. I also used it to see how polymorphic methods like late_fee() and checkout_message() can replace big if/elif chains and still handle different behaviors for each subclass.
 Week 8 Chat Link:https://chatgpt.com/share/693767f7-32b0-8006-acc7-b1a24bdd2c20
+
+Week 9:
+This week I used AI to help me understand abstract base classes and interfaces in Python. I asked ChatGPT to explain how LibraryItem works as an abstract base class with @abstractmethod, abstract properties like is_digital and media_type, and class methods like kind(). I also used it to understand how concrete subclasses like PrintedBook, EBook, and AudioBook implement these methods, how late_fee() can be defined once in the ABC and customized via daily_late_fee() in each subclass, and how virtual subclasses and Protocols (like Downloadable) let different objects follow the same interface without always subclassing directly.
+Week 9 Chat Link:https://chatgpt.com/share/6939f81a-5e38-8006-81e8-5b4a82f6537d
