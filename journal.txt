@@ -42,3 +42,7 @@ Week 9 Chat Link: https://chatgpt.com/share/6939f81a-5e38-8006-81e8-5b4a82f6537d
 Week 10:
 This week I worked on data models, properties, and special methods in Python (Week 10 exercises). I used ChatGPT to clarify how to design frozen value objects (`@dataclass(frozen=True)`) for immutable authors, how to implement containment predicates and defensive accessors in a Catalog, and best practices for pretty-printing tabular data. I also asked for examples of sorting with `key=` functions and a minimal `unittest` scaffold. Chat help let me move quickly from concept to runnable code and catch edge cases (e.g., title validation and copies validation).
 Week 10 Chat Link: https://chatgpt.com/share/693ad1ef-3fcc-8006-94b0-9d3cbf81a5c7
+
+Week 12:
+This week I used AI to help me improve my overall habits outside of class, specifically focusing on my gym routine and eating habits. I asked ChatGPT for guidance on better workout structure, how to avoid repeating exercises too close together, and how to build meals that support muscle recovery even with a low appetite. The AI also helped me understand how to time protein intake, what foods to prioritize, and how to maintain more consistent habits throughout the week.
+Week 12 Chat Link: https://chatgpt.com/share/693b1d2e-622c-8006-ac81-e82bc37cfbd6
